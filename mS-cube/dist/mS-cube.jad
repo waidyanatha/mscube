@@ -1,0 +1,8 @@
+MIDlet-1: Midlet, ,org.ms.cube.MsCube
+MIDlet-Jar-Size: 82031
+MIDlet-Jar-URL: mS-cube.jar
+MIDlet-Name: mS-cube
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
